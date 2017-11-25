@@ -1,6 +1,6 @@
-{{titulo}}
-<ul>
-  <li *ngFor="let logro of logros">
-    {{logro.title}}
-  </li>
-</ul>
+<mat-list>
+  <mat-list-item *ngFor="let logro of logros">
+    <h3 matLine>{{logro.title}}</h3>
+    <p matLine>{{logro.description | truncate: 30}}</p>
+  </mat-list-item>
+</mat-list>

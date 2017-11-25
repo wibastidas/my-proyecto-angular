@@ -15,15 +15,15 @@ export class HomeComponent implements OnInit {
   return [{
    id:1,
    title:"Logré algo muy interesante",
-   description:"Lorem ipsum dolor sit amet"
-  }, {
+   description:"Lorem ipsum"
+  }, { 
    id:2,
    title:"Logré otra cosa muy interesante",
-   description:"Lorem ipsum dolor sit amet"
+   description:"Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
   }, {
    id:3,
    title:"Logré algo aún mas interesante",
-   description:"Lorem ipsum dolor sit amet"
+   description:"Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
   }
  ]
  }
