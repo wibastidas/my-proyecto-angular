@@ -1,32 +1,22 @@
-<<<<<<< HEAD
-# MyProyectoAngular
+# Repositorio basado en el artículo [Angular 5: Inicio rápido con angular-cli y angular material](https://medium.com/williambastidasblog/angular-5-inicio-r%C3%A1pido-con-angular-cli-y-angular-material-e52e4ab0df3a).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+Este proyecto usa:
 
-## Development server
+1. Angular 5.0.3
+1. Angular CLI 1.5.4
+1. Node 9.0.0
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+![my-proyecto-angular](https://cdn-images-1.medium.com/max/640/1*Ljx92kLPhyj0rB_B5g7_wQ.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Recuerda que luego de descargar o clonar el proyecto debes pararte en tu proyecto en la terminal y ejecutar:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+```
+npm install
+````
+para descargar todas las dependencias del proyecto. Y luego:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# my-proyecto-angular
-Angular 5: Inicio rápido con angular-cli y angular material
->>>>>>> 17de27a89946238889180c77c6709ca28ab26075
+```
+ng serve --open
+```
