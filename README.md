@@ -1,7 +1,7 @@
 Angular 5: Inicio rápido con angular-cli y angular material
 
 
-# Angular 5: Inicio rápido con angular-cli y angular material [Filtrar lista de alto rendimiento en Ionic 2 y 3](https://medium.com/williambastidasblog/filtrar-lista-de-alto-rendimiento-en-ionic-2-y-3-c0c818a633f5).
+# Repositorio basado en el artículo [Angular 5: Inicio rápido con angular-cli y angular material](https://medium.com/williambastidasblog/filtrar-lista-de-alto-rendimiento-en-ionic-2-y-3-c0c818a633f5).
 
 Este proyecto usa:
 
@@ -10,7 +10,8 @@ Este proyecto usa:
 1. Node 9.0.0
 
 
-![ionic2-filtro-busqueda](https://cdn-images-1.medium.com/max/640/1*YdOVAs24kTPes5DPhxcy-g.gif)
+![my-proyecto-angular](https://cdn-images-1.medium.com/max/640/1*Ljx92kLPhyj0rB_B5g7_wQ.png)
+
 
 Recuerda que luego de descargar o clonar el proyecto debes pararte en tu proyecto en la terminal y ejecutar:
 
@@ -20,7 +21,7 @@ npm install
 Y luego:
 
 ```
-ionic cordova prepare
+ng serve --open
 ```
 
 para descargar todas las dependencias del proyecto.
