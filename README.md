@@ -1,4 +1,4 @@
-# Repositorio basado en el artículo [Angular 5: Inicio rápido con angular-cli y angular material](https://medium.com/williambastidasblog/filtrar-lista-de-alto-rendimiento-en-ionic-2-y-3-c0c818a633f5).
+# Repositorio basado en el artículo [Angular 5: Inicio rápido con angular-cli y angular material](https://medium.com/williambastidasblog/angular-5-inicio-r%C3%A1pido-con-angular-cli-y-angular-material-e52e4ab0df3a).
 
 Este proyecto usa:
 
