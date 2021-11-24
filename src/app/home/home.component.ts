@@ -5,9 +5,11 @@ templateUrl: './home.component.html',
 styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
- logros : ILogro[];
+ logros : ILogro[]=[];
  titulo  : string = 'Bienvenidos';
- constructor() { }
+ constructor() { 
+   this.logros = [];
+ }
  ngOnInit() {
  this.logros = this.getLogros();
  }
